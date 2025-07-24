@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8>
   <meta name="description"> 
-  content="Embark on a culinary adventure with Taste of Travel, exploring global flavors and recipes."
+  content="Embark on a culinary adventure with Taste of Travel, exploring global flavors and recipes.">
   <title>Taste of Travel</title>
 </head>
 <body>
