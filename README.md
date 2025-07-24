@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8>
-  <meta name="description"> 
+  <meta name="description"
   content="Embark on a culinary adventure with Taste of Travel, exploring global flavors and recipes.">
   <title>Taste of Travel</title>
 </head>
